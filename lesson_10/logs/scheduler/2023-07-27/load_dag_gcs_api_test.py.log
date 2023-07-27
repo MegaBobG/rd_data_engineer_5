@@ -1,0 +1,28 @@
+[2023-07-27T07:38:39.568+0000] {processor.py:157} INFO - Started process (PID=4992) to work on /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:38:39.569+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/load_dag_gcs_api_test.py for tasks to queue
+[2023-07-27T07:38:39.570+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:38:39.570+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:38:40.213+0000] {processor.py:836} INFO - DAG(s) dict_keys(['load_dag_gcs_api_test']) retrieved from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:38:40.225+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:38:40.225+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:38:40.247+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:38:40.246+0000] {dag.py:3490} INFO - Setting next_dagrun for load_dag_gcs_api_test to 2023-07-26T01:00:00+00:00, run_after=2023-07-27T01:00:00+00:00
+[2023-07-27T07:38:40.270+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_dag_gcs_api_test.py took 0.705 seconds
+[2023-07-27T07:39:11.034+0000] {processor.py:157} INFO - Started process (PID=5090) to work on /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:39:11.035+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/load_dag_gcs_api_test.py for tasks to queue
+[2023-07-27T07:39:11.036+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:11.036+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:39:11.830+0000] {processor.py:836} INFO - DAG(s) dict_keys(['load_dag_gcs_api_test']) retrieved from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:39:11.851+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:11.850+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:39:11.878+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:11.878+0000] {dag.py:3490} INFO - Setting next_dagrun for load_dag_gcs_api_test to 2023-07-26T01:00:00+00:00, run_after=2023-07-27T01:00:00+00:00
+[2023-07-27T07:39:11.899+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_dag_gcs_api_test.py took 0.868 seconds
+[2023-07-27T07:39:42.038+0000] {processor.py:157} INFO - Started process (PID=5187) to work on /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:39:42.039+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/load_dag_gcs_api_test.py for tasks to queue
+[2023-07-27T07:39:42.042+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:42.041+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:39:49.021+0000] {processor.py:836} INFO - DAG(s) dict_keys(['load_dag_gcs_api_test']) retrieved from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:39:49.041+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:49.041+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:39:49.078+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:49.078+0000] {dag.py:3490} INFO - Setting next_dagrun for load_dag_gcs_api_test to 2023-07-26T01:00:00+00:00, run_after=2023-07-27T01:00:00+00:00
+[2023-07-27T07:39:49.124+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_dag_gcs_api_test.py took 7.091 seconds
+[2023-07-27T07:40:19.381+0000] {processor.py:157} INFO - Started process (PID=5284) to work on /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:40:19.383+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/load_dag_gcs_api_test.py for tasks to queue
+[2023-07-27T07:40:19.384+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:40:19.384+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:40:20.095+0000] {processor.py:836} INFO - DAG(s) dict_keys(['load_dag_gcs_api_test']) retrieved from /opt/airflow/dags/load_dag_gcs_api_test.py
+[2023-07-27T07:40:20.107+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:40:20.107+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:40:20.129+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:40:20.129+0000] {dag.py:3490} INFO - Setting next_dagrun for load_dag_gcs_api_test to 2023-07-26T01:00:00+00:00, run_after=2023-07-27T01:00:00+00:00
+[2023-07-27T07:40:20.151+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/load_dag_gcs_api_test.py took 0.774 seconds

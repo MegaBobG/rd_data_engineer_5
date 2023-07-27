@@ -1,0 +1,28 @@
+[2023-07-27T07:38:44.787+0000] {processor.py:157} INFO - Started process (PID=5053) to work on /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:38:44.788+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/gcp_test.py for tasks to queue
+[2023-07-27T07:38:44.789+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:38:44.789+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:38:45.327+0000] {processor.py:836} INFO - DAG(s) dict_keys(['gcp_test']) retrieved from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:38:45.438+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:38:45.438+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:38:45.457+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:38:45.457+0000] {dag.py:3490} INFO - Setting next_dagrun for gcp_test to 2023-07-27T00:00:00+00:00, run_after=2023-07-28T00:00:00+00:00
+[2023-07-27T07:38:45.482+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/gcp_test.py took 0.699 seconds
+[2023-07-27T07:39:15.590+0000] {processor.py:157} INFO - Started process (PID=5151) to work on /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:39:15.591+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/gcp_test.py for tasks to queue
+[2023-07-27T07:39:15.591+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:15.591+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:39:16.144+0000] {processor.py:836} INFO - DAG(s) dict_keys(['gcp_test']) retrieved from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:39:16.164+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:16.164+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:39:16.185+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:16.185+0000] {dag.py:3490} INFO - Setting next_dagrun for gcp_test to 2023-07-27T00:00:00+00:00, run_after=2023-07-28T00:00:00+00:00
+[2023-07-27T07:39:16.208+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/gcp_test.py took 0.622 seconds
+[2023-07-27T07:39:50.003+0000] {processor.py:157} INFO - Started process (PID=5218) to work on /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:39:50.004+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/gcp_test.py for tasks to queue
+[2023-07-27T07:39:50.005+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:50.005+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:39:50.546+0000] {processor.py:836} INFO - DAG(s) dict_keys(['gcp_test']) retrieved from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:39:50.558+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:50.557+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:39:50.580+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:39:50.580+0000] {dag.py:3490} INFO - Setting next_dagrun for gcp_test to 2023-07-27T00:00:00+00:00, run_after=2023-07-28T00:00:00+00:00
+[2023-07-27T07:39:50.602+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/gcp_test.py took 0.603 seconds
+[2023-07-27T07:40:21.054+0000] {processor.py:157} INFO - Started process (PID=5315) to work on /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:40:21.055+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/gcp_test.py for tasks to queue
+[2023-07-27T07:40:21.056+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:40:21.056+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:40:21.587+0000] {processor.py:836} INFO - DAG(s) dict_keys(['gcp_test']) retrieved from /opt/airflow/dags/gcp_test.py
+[2023-07-27T07:40:21.691+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:40:21.691+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-07-27T07:40:21.713+0000] {logging_mixin.py:149} INFO - [2023-07-27T07:40:21.712+0000] {dag.py:3490} INFO - Setting next_dagrun for gcp_test to 2023-07-27T00:00:00+00:00, run_after=2023-07-28T00:00:00+00:00
+[2023-07-27T07:40:21.736+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/gcp_test.py took 0.685 seconds

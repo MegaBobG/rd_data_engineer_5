@@ -1,15 +1,15 @@
 import os
 import requests
-
-
-AUTH_TOKEN = os.environ['AUTH_TOKEN']
-
+from airflow.models.variable import Variable
+#
+# AUTH_TOKEN = os.environ['AUTH_TOKEN']
+AUTH_TOKEN = Variable.get(key='AUTH_TOKEN')
 
 def main():
 
     response = requests.get(
         url='https://fake-api-vycpfa6oca-uc.a.run.app/sales',
-        params={'date': '2022-08-11', 'page': 2},
+        params={'date': '2022-08-09', 'page': 2},
         headers={'Authorization': AUTH_TOKEN},
     )
     print("Response status code:", response.status_code)
